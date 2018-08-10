@@ -40,7 +40,7 @@ No one is born knowing how to use computers effectively, it takes a lot of pract
 
 (insert contact information here)
 
-Alright, that's enough with course introduction. Lets get started with the course content, starting with [parts of the computer!](https://github.com/bvi1994/SanteeComputerFundamentals/blob/master/Week-1/computerParts.md)
+Alright, that's enough with course introduction. Lets get started with the course content, starting with [parts of the computer (click me!)](https://github.com/bvi1994/SanteeComputerFundamentals/blob/master/Week-1/computerParts.md)
 
 *Why are you learning Computer Skills?*
 
