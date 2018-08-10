@@ -44,6 +44,7 @@ Here are examples of keyboard on desktop and laptop:
 
 <details>
   <summary>Extra Info on Keyboard (Not Required): Click me if you want extra information on keyboard</summary>
+  <br/>
 Typically there are two types of keyboard, mechanical and non-mechanical keyboard. The general rule is that if a keyboard makes a "click click click" sound, it's a mechanical keyboard. If the keyboard is silent while typing, it's a non-mechanical keyboard, usually the rubber or membrane keyboard.
 
 In terms of functionally, they are the same though mechanical keyboards are more expensive usually. However, they do sound really nice and it is widely more preferred by gamers.
@@ -57,4 +58,36 @@ This is a ***Desktop***:
 
 ![Photo of a desktop](https://i5.walmartimages.com/asr/20c2da98-23b6-42c0-99ff-3719a352c2a8_1.d7738944df20f5cd082a4c5d826986b0.jpeg)
 
-Typically a Desktop would have its own screen (Monitor), Keyboard and Mouse.
+Typically a Desktop would have its own screen (Monitor), Keyboard and Mouse. The "tall, rectangle" part of the Desktop that is not part of the monitor is called the ***Desktop Tower*** or ***Tower*** for short (the part to the left of the monitor in the above picture). It contains all the internal parts of the computer that for this course, we will concern ourselves with.
+
+This is a ***Laptop***:
+
+![Photo of a laptop](https://azcd.harveynorman.com.au/media/catalog/product/cache/21/image/992x558/9df78eab33525d08d6e5fb8d27136e95/1/x/1xe59pa.jpg)
+
+A laptop main defining feature is where the keyboard, monitor and touchpad are together as one body. Typically, there's no way to separate either of those parts without actually breaking the body of the laptop.
+
+<details>
+  <summary>A note on tablets (iPad, Galaxy Tab, etc): DO READ IF YOU HAVE A TABLET BUT NOT A LAPTOP OR DESKTOP (click me!)</summary>
+  <br/>
+
+Okay, tablets such as the iPad, Galaxy Tab, etc are technically computers. However, they aren't usually what people think of when people think of computers. The short answer is that anything that a tablet can do, a desktop/laptop can also do (one way or another).
+
+If you do not have a desktop, laptop or tablet, I **STRONGLY** recommend that you get a desktop or laptop first before you get a tablet. If you are concerned about portability, get a laptop. Seriously.
+
+</details>
+
+## Other parts of the computer you should know
+
+<Insert more content here such as audio jack, headphones, USB, CD ROM, etc here>
+
+## Assignment
+
+You have two assignments:
+
+In the following pictures, label each part of the computer that we discussed.
+
+<insert pictures here for people to label>
+
+After you are finish, go to the following website: <insert website>. There, you will learn how to "type properly." I know that this seems like a pain to learn how to "type properly" but believe me, it will make typing much faster in the long run.
+
+<Insert motivation about "proper typing" as well as advice here>
