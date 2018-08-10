@@ -8,22 +8,22 @@ A lot of the presentation, notes as well as Computer excerises can be found: htt
 
 ## Materials
 
-I highly recommend that you always have access to a Computer, either using a Desktop or Laptop computer. **This course will mainly be taught using Microsoft Windows 10 Operating System. If you would like to know how to purchase a computer, see me as soon as possible. I can help recommend computers that will not cost too much as well that will last a long time.
+I highly recommend that you always have access to a Computer, either using a Desktop or Laptop computer. **This course will mainly be taught using Microsoft Windows 10 Operating System. If you would like to know how to purchase a computer, see me as soon as possible. I can help recommend computers that will not cost too much as well that will last a long time.**
 
 Computers (Windows 7) are available at the Santee Family Resource Center (1399 Santee Dr) from 8am-4pm. 
 
 ## Class Schedule 
 
-*Schedule is subject to change depending on time and interest of the topics
+*Schedule is subject to change depending on time and interest of the topics*
 
-Class 1: Introduction, Sybullus, Class Expectations, Parts of Computer, Typing Correctly
-Class 2: Local Internet Resources, Email and Search Engine Usage
-Class 3: Common Internet Applications/Websites, Social Media and Internet Culture
-Class 4: Word Processing and Spreadsheets with Google Docs/Microsoft Office
-Class 5: Using a Smartphone
-Class 6: Computer and Internet Safety
-Class 7: Computer Peripherals and Computer History
-Class 8: Misc Topics depending on class interest
+- Class 1: Introduction, Sybullus, Class Expectations, Parts of Computer, Typing Correctly
+- Class 2: Local Internet Resources, Email and Search Engine Usage
+- Class 3: Common Internet Applications/Websites, Social Media and Internet Culture
+- Class 4: Word Processing and Spreadsheets with Google Docs/Microsoft Office
+- Class 5: Using a Smartphone
+- Class 6: Computer and Internet Safety
+- Class 7: Computer Peripherals and Computer History
+- Class 8: Misc Topics depending on class interest
 
 ## Course structure
 You cannot gain the skills of using a computer just by watching presentations, you must actually use the computer.  Typically each session will have a 45 minute presentation of the overview of the topic followed by "hands-on" time. In addition, most courses will feature "homework" to reinforce and get more practice the computer skills that we went over through class. 
