@@ -41,3 +41,7 @@ No one is born knowing how to use computers effectively, it takes a lot of pract
 (insert contact information here) 
 
 Alright, that's enough with course introduction. Lets get started with the course content, starting with [parts of the computer!]
+
+*Why are you learning Computer Skills?* 
+
+[!["We choose to go to the moon this decade and do the other things. Not because they are easy, but because they are hard."](https://nails.newsela.com/s3/newsela-media/article_media/2016/03/jfk-moon-speech-5d3ffd89.jpg?crop=0%2C143%2C1366%2C912&height=498&width=885)](https://www.youtube.com/watch?v=EeGw32e5Em4)
