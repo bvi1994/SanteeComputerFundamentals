@@ -20,17 +20,17 @@ A computer ***mouse*** is basically a device that tracks movement and sends thos
 
 Here's an example of a computer mouse:
 
-[!Picture of a Computer Mouse](https://upload.wikimedia.org/wikipedia/commons/2/22/3-Tasten-Maus_Microsoft.jpg)
+![Picture of a Computer Mouse](https://upload.wikimedia.org/wikipedia/commons/2/22/3-Tasten-Maus_Microsoft.jpg)
 
 Here's the typical cursor on the computer:
 
-[!Picture of Arrow Cursor](https://cdn4.iconfinder.com/data/icons/cursors-gestures/100/click_2-512.png)
+![Picture of Arrow Cursor](https://cdn4.iconfinder.com/data/icons/cursors-gestures/100/click_2-512.png)
 
 On laptops, the mouse is usually not included. A ***touchpad*** is used instead. Instead of physically moving a mouse to move the cursor, you would use your finger to rub against the touchpad to the direction of where you want to move the cursor.
 
 Here's an example of a touchpad on a laptop:
 
-[!Picture of Touchpad](https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge_wm_blb/public/field/image/2017/07/hp-spectre-x2-2017-trackpad.jpg?itok=EJsUQhDH)
+![Picture of Touchpad](https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge_wm_blb/public/field/image/2017/07/hp-spectre-x2-2017-trackpad.jpg?itok=EJsUQhDH)
 
 ### Keyboard
 
@@ -38,11 +38,12 @@ A ***keyboard*** is basically a device that lets you type things, usually text. 
 
 Here are examples of keyboard on desktop and laptop:
 
-[!Picture of a Desktop Keyboard](https://assets.pcmag.com/media/images/577832-best-keyboards-of-2018.jpg?thumb=y&width=1295&height=729)
+![Picture of a Desktop Keyboard](https://assets.pcmag.com/media/images/577832-best-keyboards-of-2018.jpg?thumb=y&width=1295&height=729)
 
-[!Picture of Laptop Keyboard](https://cnet1.cbsistatic.com/img/fX3MpF3NV1emYSqpaWy2ReyWVtY=/2010/04/27/a52eb36e-fdb4-11e2-8c7c-d4ae52e62bcc/33960160-2-440-TOP-2.jpg)
+![Picture of Laptop Keyboard](https://cnet1.cbsistatic.com/img/fX3MpF3NV1emYSqpaWy2ReyWVtY=/2010/04/27/a52eb36e-fdb4-11e2-8c7c-d4ae52e62bcc/33960160-2-440-TOP-2.jpg)
 
-<details>Extra Info on Keyboard (Not Required): Click me if you want extra information on keyboard
+<details>
+  <summary>Extra Info on Keyboard (Not Required): Click me if you want extra information on keyboard</summary>
 Typically there are two types of keyboard, mechanical and non-mechanical keyboard. The general rule is that if a keyboard makes a "click click click" sound, it's a mechanical keyboard. If the keyboard is silent while typing, it's a non-mechanical keyboard, usually the rubber or membrane keyboard.
 
 In terms of functionally, they are the same though mechanical keyboards are more expensive usually. However, they do sound really nice and it is widely more preferred by gamers.
